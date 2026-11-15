@@ -1,0 +1,42 @@
+United Arab Emirates - immigration/residency and labour authorities
+Checked 15 November 2026. No files kept: nothing found that is guidance addressed to decision-makers.
+
+Authorities
+- Federal Authority for Identity, Citizenship, Customs and Port Security (ICP): residence and entry
+  permits for all emirates except Dubai. https://icp.gov.ae/ - robots.txt and site did not answer
+  from this machine (connection timed out after 40 s); not used further.
+- General Directorate of Residency and Foreigners Affairs Dubai (GDRFA-D): https://gdrfad.gov.ae/
+  robots.txt read (Drupal default; only /core/, /profiles/ and admin paths excluded). No published
+  manual, circular or procedure guide for officers was found; the site offers service pages for applicants.
+- Ministry of Human Resources and Emiratisation (MOHRE): work permits. https://www.mohre.gov.ae/ -
+  robots.txt did not answer (connection timed out after 60 s); not used further.
+
+What exists
+- MOHRE's ministerial resolutions (e.g. Ministerial Resolution No. 46 of 2022 on work permits, offer
+  letters and employment contract forms; Cabinet Resolution No. 203 of 2022 on e-quotas) are published
+  as legal acts on the federal portal u.ae / government.ae, e.g.
+  https://u.ae/-/media/Images-2022/MoHRE-resolutions-2022/ArMinisterial-Decree-No--46--of-2022-Regarding-Work-Permits-Job-Offers-and-Employment-Contracts-Form.pdf
+  These are legislation, not wanted.
+- MOHRE Administrative Resolution No. 38 of 2022 "Concerning the Guidelines for Implementing
+  Ministerial Resolution No. 46 of 2022 regarding Work Permits, Offer Letters and Employment Contract
+  Forms" (issued 21 June 2022 by the Undersecretary for Human Resources Affairs; repeals Administrative
+  Resolution No. 22 of 2022). Looked at in the copy held by the Gulf Labour Markets and Migration
+  programme (GLMM, a research archive), which is marked "This is not an official translation":
+  https://gulfmigration.grc.net/wp-content/uploads/2023/01/Administrative-Resolution-No.38-of-2022-Concerning-the-Guidelines-for-Implementing-Ministerial-Resolution-No.46-of-2022-Regarding-Work-Permits-and-Offer-Letters-and-Employment-Contract-Forms.pdf
+  The 26-page annex is a service catalogue per permit type (service description, duration, channels,
+  steps, required documents, fees) - the same content as MOHRE's public service directory
+  (https://www.mohre.gov.ae/assets/download/20680003/human-resources-services-eng.aspx). It is
+  addressed to establishments, not to the officials who decide, and the only accessible copy is an
+  unofficial third-party translation. Not kept. GLMM also holds similar administrative resolutions
+  (e.g. No. 46 of 2022 implementing Ministerial Resolution No. 251 of 2022).
+- MOHRE publishes press-released "guides" (e.g. July 2026 guide linking work-permit issuance to health
+  insurance) aimed at employers.
+
+Searches (web search, November 2026) for ICP/GDRFA circulars, manuals or officer instructions returned
+only applicant guidance, news reports and commercial visa-agent pages.
+
+Finding
+The UAE publishes no guidance addressed to the officials who decide residence or work-permit cases.
+What is public is legislation (federal laws, cabinet and ministerial resolutions), administrative
+resolutions whose annexes are service catalogues for employers, and applicant service pages.
+Internal ICP/GDRFA/MOHRE instructions are not published and no freedom-of-information route exists.
